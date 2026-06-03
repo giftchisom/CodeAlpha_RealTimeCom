@@ -1,0 +1,9 @@
+{
+  "name": "SyncSpace RTC",
+  "description": "A polished multi-user video conferencing, screen sharing, file sharing, and collaborative whiteboard application with secure backend room routing and messaging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
